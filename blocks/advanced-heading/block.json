@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "title": "Advanced Heading",
+  "name": "robbani-blocks/advanced-heading",
+  "category": "robbani-blocks",
+  "description": "Create advanced heading with title, subtitle and separator controls",
+  "apiVersion": 2,
+  "textdomain": "robbani-blocks",
+  "supports": {
+    "anchor": true
+  },
+  "editorScript": "robbani-blocks-editor-script"
+}
